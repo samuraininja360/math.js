@@ -11,5 +11,4 @@ function gcd(x, y) {
   return x;
 }
 
-console.log(gcd(12, 13))
-console.log(gcd(9, 3))
+console.log(gcd(8,12))
